@@ -1,4 +1,4 @@
-<img width="2896" height="1676" alt="image" src="https://github.com/user-attachments/assets/9b3c6d7e-a726-401f-93b2-06ffe174dbb5" /><img width="2940" height="1666" alt="image" src="https://github.com/user-attachments/assets/128bf358-7a61-4134-9ac5-10b55f42bc2b" /><img width="2940" height="1666" alt="image" src="https://github.com/user-attachments/assets/e573617c-ec77-490d-9a24-57bfd4a21ba7" /># X-Ray Dashboard
+# X-Ray Dashboard
 
 An **X-Ray library and dashboard** for debugging non-deterministic, multi-step algorithmic systems. Unlike traditional tracing which answers "what happened?", X-Ray answers **"why did the system make this decision?"**
 
