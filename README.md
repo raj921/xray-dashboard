@@ -1,6 +1,7 @@
 # X-Ray Dashboard
 
 An **X-Ray library and dashboard** for debugging non-deterministic, multi-step algorithmic systems. Unlike traditional tracing which answers "what happened?", X-Ray answers **"why did the system make this decision?"**
+![Uploading image.png…]()
 
 
 ## 🚀 Quick Start
